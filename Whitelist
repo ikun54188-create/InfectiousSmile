@@ -1,0 +1,3 @@
+local whitelist = {"woshigegzz3", "woshigegzz541"}
+
+return  whitelist
